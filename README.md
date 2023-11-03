@@ -1,1 +1,2 @@
-# Library_management_System
+# Library-Management-System
+Library Management System using Object Oriented Programming in CPP
